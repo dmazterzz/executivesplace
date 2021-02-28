@@ -1,6 +1,6 @@
 # Executives Place - Technical Test
 
-##Installation
+## Installation
 
 - Clone Repo and set up the database (.env.example contains a default database). 
 - Run php artisan migrate --seed
